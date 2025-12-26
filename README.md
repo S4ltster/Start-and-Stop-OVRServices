@@ -1,2 +1,16 @@
 # Start-and-Stop-OVRServices
-Was sick of having the Meta Horizon Link app randomly popping up and hijacking my screen, so I made these very simple bat files.
+
+
+## USAGE
+
+-Download the bat files and run them
+
+## Troubleshooting
+
+if you get an access denied error you need to create shortcuts of these bat files.  
+
+-**Right click the shortcuts and go to properties**.
+
+-**Go to the shortcut tab, select "advanced"** in the bottom right and then tick **Run as administrator**. 
+
+**You will no longer need to right click and run as admin every time now.**
