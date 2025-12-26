@@ -1,6 +1,8 @@
 # Start-and-Stop-OVRServices
 
+## Prerequisites
 
+-Local Account with Administrator Privileges 
 ## USAGE
 
 -Download the bat files and run them
